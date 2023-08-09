@@ -13,7 +13,6 @@ export default {
 </script>
 
 <template>
-  // cannot have multiple root elements inside template in vue 2
   <div class="container m-auto p-3 font-inter">
     <main class="flex flex-col items-center">
       <h1 class="mt-10 text-white font-semibold text-5xl">Vue Todo App</h1>
